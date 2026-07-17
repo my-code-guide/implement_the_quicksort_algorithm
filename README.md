@@ -1,6 +1,6 @@
 # Implement the Quicksort Algorithm
 
-This project is part of a YouTube tutorial on the My Code Guide channel link to the chanel and link to the tutorial.
+This project is part of a YouTube tutorial on the My Code Guide channel link to the chanel and link to the [tutorial](https://youtu.be/ICixttT4sps).
 
 It walks through the freeCodeCamp (FCC) Python curriculum and shows how to Implement the Quicksort Algorithm step-by-step.
 
